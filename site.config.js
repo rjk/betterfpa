@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "betterfpa",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
+    role: "business planning fanatic",
     bio: "I love to plan",
     email: "contact@betterfpa.com",
     linkedin: "betterfpa",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `betterfpa`,
+      href: "https://github.com/rjk/betterfpa",
     },
   ],
   // blog setting (required)
