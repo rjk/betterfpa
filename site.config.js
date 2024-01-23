@@ -11,10 +11,6 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      name: `betterfpa`,
-      href: "https://github.com/rjk/betterfpa",
-    },
   ],
   // blog setting (required)
   blog: {
