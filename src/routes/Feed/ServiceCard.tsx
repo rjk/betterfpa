@@ -5,7 +5,7 @@ import styled from "@emotion/styled"
 import { Emoji } from "src/components/Emoji"
 
 const ServiceCard: React.FC = () => {
-  if (!CONFIG.projects) return null
+  if (!("projects" in CONFIG)) return null
   return (
     <>
       <StyledTitle>
