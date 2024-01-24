@@ -15,7 +15,12 @@ const CONFIG = {
     title: "Better FP&A",
     description: "Welcome to the Better FP&A blog!",
   },
-  projects: [],
+  projects: [
+    {
+      name: "Secret Project",
+      href: "#"
+    }
+  ],
   // CONFIG configration (required)
   link: "https://betterfpa.vercel.app",
   since: 2024, // If leave this empty, current year will be used.
